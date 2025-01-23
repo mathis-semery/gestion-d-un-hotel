@@ -1,3 +1,9 @@
+package application;
+
+import hotel.Chambre;
+import hotel.Client;
+import hotel.Hotel;
+
 public class Application {
     public static void main(String[] args) {
         // Création de clients
